@@ -26,7 +26,7 @@ async def inspire(ctx):
   while True:
     
     name = ' '
-    quote_with_name    = find_quote()
+    quote_with_name    = find_quote()     
 
     quote_without_name = quote_with_name.split('-')[0] 
     b = 0
@@ -44,4 +44,4 @@ async def inspire(ctx):
 
 keep_alive()
 
-client.run('ODM4NTI5MjgyNTUxNTc4Njc0.YI8bQA.CJOxzT9T_IQq9VFkmFoQI_vckjk')  #this token is not correct :p . You can paste your bot's token here to make it run.
+client.run('ODM4NTI5MjgayNTUxNTc4Njo0.YI8bQA.CJOxT9T_IQq9DFkoFoOT_ursky')  #this token is not correct :p . You can paste your bot's token here to make it run.
