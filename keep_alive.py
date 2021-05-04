@@ -1,3 +1,5 @@
+#YOU CAN NOW KEEP YOUR BOT RUNNING 24*7 WITH THIS TINY PIECE OF CODE ON ANY HOSTING WEBSITE LIKE UptimeRobot
+
 from flask import Flask
 from threading import Thread
 
@@ -13,3 +15,4 @@ def run():
 def keep_alive():
     t = Thread(target=run)
     t.start()
+    
