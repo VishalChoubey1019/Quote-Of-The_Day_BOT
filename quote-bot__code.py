@@ -17,7 +17,7 @@ def find_quote():
 
 
 @tasks.loop(seconds=43200)
-async def play_quotes(ctx):
+async def print_quote(ctx):
   name = ' '
   quote_with_name    = find_quote()
 
