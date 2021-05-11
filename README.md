@@ -6,16 +6,12 @@ Konnichiwa!!
 <a href="https://github.com/VishalChoubey1019/HangMan/blob/main/LICENSE" alt="Lisence"><img src="https://img.shields.io/github/license/VishalChoubey1019/HangMan"></a> <a href="https://github.com/VishalChoubey1019/HangMan/issues" alt="Issues"><img src="https://img.shields.io/github/issues/VishalChoubey1019/HangMan"></a> <a href="<_set your twitter id_>" alt="Twiter-Follow"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FVishalChoubey1019%2FHangMan"></a>
 </p>
 
-This is a python coded HangMan game which gives you different words on each play, generated using random-words package
+This is a python coded Quote Bot which gives you different quotes in every 12 hours generated from zenquotes.io
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) \
-To install random-word
 
-```bash
-pip install random-word
-```
 
 ## How to Install
 
