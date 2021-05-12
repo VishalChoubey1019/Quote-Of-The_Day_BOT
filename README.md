@@ -20,9 +20,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) \
 3. Go to the cloned/downloaded directory ``` cd HangMan ``` 
 4. Run it.
 
-## Note 
-
-This is just a small and simple example of using python to make simple game. So you are welcome to add features to this game.
 
 ## Contributing
 
